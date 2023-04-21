@@ -7,9 +7,13 @@ img {
   height: 300px;
 }
 
+#img-x {
+  height: 1000px;
+}
+
 body {
   margin: 0;
-  background-color: #ffffff;
+  background-image: url("../imagenes/fondo.png.JPEG");
 }
 
 header h1 {
